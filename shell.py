@@ -1,8 +1,8 @@
-import RosBasic
+import Tython
 
 while True:
-    text = input('RosBasic > ')
-    result, error = RosBasic.run('<stdin>', text)
+    text = input('Tython > ')
+    result, error = Tython.run('<stdin>', text)
 
     if error: print(error.as_string())
     else: print(result)

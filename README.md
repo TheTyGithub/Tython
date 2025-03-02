@@ -1,4 +1,4 @@
-### RosBasic
+### Tython
 
 
 _Important things_:
@@ -7,4 +7,4 @@ _Important things_:
 - Not even finished coding
 - Python needs to be installed
 - Not cool
-- Why am I even typing?
+- Why am I still even typing?
